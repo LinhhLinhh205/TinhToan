@@ -74,9 +74,10 @@
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                     <td class="auto-style2">&nbsp;</td>
-                    <td>
+                     <td class="auto-style3">
                         <asp:Button ID="btCong" runat="server" Text="Cộng" OnClick="btCong_Click" CssClass="btn btncong" style="margin-left: 0px"  />
+                        </td>
+                    <td>
                         <asp:Button ID="btTru" runat="server" Text="Trừ" OnClick="btTru_Click"  CssClass="btn btntru" />
                         <asp:Button ID="btNhan" runat="server" Text="Nhân" OnClick="btNhan_Click"  CssClass="btn btnnhan" />
                         <asp:Button ID="btChia" runat="server" Text="Chia" OnClick="btChia_Click" CssClass="btn btnchia" />
